@@ -1,4 +1,6 @@
 /*
+Gecho v1.0
+
 Gecho is a Go implementation of the commonly used *nix command line tool 'echo'.
 
 Copyright (C) 2014  Brian C. Tomlinson
